@@ -39,11 +39,7 @@
 >>>>>>> 6aa52603063922948ff700b87bc5a0d16df1bd0f
         </activity>
         <activity android:name=".calendarView">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".Clock" />
         <activity android:name=".elementos_prox_tareas" />
