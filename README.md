@@ -1,2 +1,0 @@
-# RememberME
-Agenda de Recordatorios
